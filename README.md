@@ -1,4 +1,4 @@
 # NOTE
 
 Json on assets file, 
-Music not playing on chrome (at least to me)
+Music not playing on chrome (at least at me)
