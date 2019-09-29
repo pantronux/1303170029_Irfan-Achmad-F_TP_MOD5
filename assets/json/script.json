@@ -1,0 +1,15 @@
+[
+	{
+		"Home" :
+			{
+				"nama" : "Irfan Achmad F",
+				"nim" : "1303170029",
+				"kelas" : "IT-41-01"
+			},
+		"About" : "Saya adalah Manusia",
+		"Hobbies" : ["Playing Games", "Programming", "Reading Novel"],
+		"Skills" : ["Reading", "Listening", "Texting"],
+		"Education" : ["TK", "SD", "SMP", "SMA", "Kuliah"],
+		"Experience" : ["Kepanitiaan", "Kepengurusan", "Jomblo 20 tahun"]
+	}
+]
