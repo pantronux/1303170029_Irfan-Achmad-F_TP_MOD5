@@ -1,1 +1,4 @@
-# 1303170029_Irfan-Achmad-F_TP_MOD5
+# NOTE
+
+Json on assets file
+Music not playing on chrome (at least to me)
